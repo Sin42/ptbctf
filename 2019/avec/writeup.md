@@ -109,7 +109,7 @@ If we assume the AES key K known, using the auth data, the auth tag and the GCM 
 
 Putting these two together, we can now iterate over the key candidates and check if the decryption of the counter succeeds. The only problem is that `2**32` iterations is not exactly trivial and pretty slow in Python/Sage; it can be done within the timeframe of the CTF though. In the original variant for this challenge, I considered running an online service with a challenge/response mechanism whereby the solver had maximum 5 minutes to solve a random instance of this problem.
 
-My [solution](../solver/solver) is written using compiler intrinsics for carry-less multiplication and AES encryption decryption and parallelized using OpenMP such that it solves any instance of the problem within 3 minutes.
+My [solution](solver/solver) is written using compiler intrinsics for carry-less multiplication and AES encryption decryption and parallelized using OpenMP such that it solves any instance of the problem within 3 minutes.
 
 ```shell
 $ time ./solver
