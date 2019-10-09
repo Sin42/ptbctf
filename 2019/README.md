@@ -19,6 +19,7 @@
   - [Author's writeup](malus/writeup.md)
   - [Team oneliner.pl's writeup](https://github.com/im-0/ctf/blob/master/2019.09.28-PwnThyBytes_CTF_2019/coding_forensics-Malus_Starkrimson/README.md)
 - Radio Ga Ga (996 points, 2 solves)
+  - [Author's writeup](radio_ga_ga/writeup.md)
 - DwarrowdELF - Exploration (1000 points, 0 solves)
 - Neurosurgery (1000 points, 0 solves)
   - [Author's writeup](neurosurgery/writeup.md)
