@@ -9,6 +9,7 @@
   - [Team oneliner.pl's writeup](https://github.com/mephi42/ctf/blob/master/2019.09.28-PwnThyBytes_CTF_2019/memory_corruption-Ace_of_Spades/README.md)
 - Dystopia (1000 points, 0 solves)
 - DwarrowdELF - Conquest (1000 points, 0 solves)
+  - [Author's writeup](dwarrowdELF/writeup.md)
 - Heap School 666 (1000 points, 1 solve)
   - [Author's writeup](heapschool666/writeup.md)
 
@@ -21,6 +22,7 @@
 - Radio Ga Ga (996 points, 2 solves)
   - [Author's writeup](radio_ga_ga/writeup.md)
 - DwarrowdELF - Exploration (1000 points, 0 solves)
+  - [Author's writeup](dwarrowdELF/writeup.md)
 - Neurosurgery (1000 points, 0 solves)
   - [Author's writeup](neurosurgery/writeup.md)
 
